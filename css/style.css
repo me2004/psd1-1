@@ -1,0 +1,26 @@
+.header{
+    font-family: 'Dosis', sans-serif;
+    background-color: #FFCD3D;
+}
+.menu-1{
+    font-weight: 700;
+    font-size: 22px;
+    font-family: 'Dosis', sans-serif;
+}
+.menu-1 ul li a{
+    color: white !important;
+}
+.user{
+    padding: 10px;
+    font-size: 22px;
+    display: inline-block;
+    color: white;
+    margin-top: 25px;
+}
+.search{
+    padding: 10px;
+    font-size: 22px;
+    display: inline-block;
+    color: white;
+    margin-top: 25px;
+}
